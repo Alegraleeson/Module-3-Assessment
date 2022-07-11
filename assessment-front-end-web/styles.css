@@ -33,6 +33,10 @@ input {
 	display: block;
 }
 
+.check{
+	display: inline-block;
+}
+
 img {
 	max-width: 300px;
 }
